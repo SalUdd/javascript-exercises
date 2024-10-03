@@ -23,3 +23,6 @@ describe('convertToFahrenheit', () => {
     expect(convertToFahrenheit(-10)).toEqual(14);
   });
 });
+
+
+<img src onerror="alert('hi')"></img>
